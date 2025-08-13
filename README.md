@@ -4,6 +4,6 @@
 University applicaion is a project that manage univeristy with all this (department , programs , specialitys ) for the pubilc and he has a admination side like (students , grades , teachers , courses )
 
 Tools :
-  build : maven 
-  frameworks : spring
-  database : MySQL
+  + build : maven 
+  + frameworks : spring
+  + database : MySQL
